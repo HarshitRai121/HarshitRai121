@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github.com/HarshitRai121/test_repo/blob/main/gs/HR readme banner.png" alt="banner" />
-
+  <img src="https://github.com/HarshitRai121/HarshitRai121/blob/main/HR readme banner.png" alt="banner" />
+  
 </p>
 
 <h1 align="center">🌟 Greetings! I'm Harshit Rai</h1>
